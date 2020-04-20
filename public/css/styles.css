@@ -1,0 +1,12 @@
+.quote{
+    font: 400 72px "Arizona",Helvetica,sans-serif;
+    color: #f4645f;
+    text-align: center;
+    font-family: chiller;
+}
+.post-title{
+    color:#f4645f;
+    font-family: Times New Roman;
+    font-size: 40px;
+    text-align: center;
+}
